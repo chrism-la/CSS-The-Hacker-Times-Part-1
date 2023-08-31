@@ -4,11 +4,6 @@
    border: none;
    box-sizing: border-box;
 }
-img{
-   display: block;
-   max-width: 100%;
-   width: 100%;
-}
 /* Boilerplate CSS */
 
 body{
@@ -58,6 +53,20 @@ h5{
    font-size: 15px;
    color: #dd3232;
 }
+main img{
+   width: 100%;
+}
+h4{
+   font-family: 'Roboto Slab';
+   font-size: 20px;
+}
 p{
    text-align: justify;
+}
+.more-articles{
+   display: inline-block;
+   border-top: 1px solid lightgray;
+}
+section{
+   display: inline-block;
 }
