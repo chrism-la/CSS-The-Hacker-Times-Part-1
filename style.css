@@ -7,6 +7,7 @@
 img{
    display: block;
    max-width: 100%;
+   width: 100%;
 }
 /* Boilerplate CSS */
 
@@ -56,4 +57,7 @@ h5{
    font-family: 'Abril Fatface';
    font-size: 15px;
    color: #dd3232;
+}
+p{
+   text-align: justify;
 }
