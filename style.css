@@ -40,10 +40,20 @@ li{
    padding: 5px;
 }
 a{
+   font-size: ;
    text-decoration: none;
    color: #777;
 }
 nav{
-   border-top: 1px solid #777;
-   border-bottom: 1px solid #777;
+   border-top: 1px solid lightgray;
+   border-bottom: 1px solid lightgray;
+}
+h2{
+   font-family: 'Roboto Slab';
+   font-size: 25px;
+}
+h5{
+   font-family: 'Abril Fatface';
+   font-size: 15px;
+   color: #dd3232;
 }
